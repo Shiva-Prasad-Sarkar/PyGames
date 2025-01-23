@@ -4,6 +4,7 @@
 Please install on your system:
 1. Python
 2. Pip (Python package installer)
+3. PyGame
 
 ## Installation Steps
 
